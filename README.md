@@ -1,9 +1,14 @@
 <h1 align="center">Hi there, I am Michelle! 👋</h1>
-<h3 align="center">A passionate Data Scientist with background in Business and Economics.</h3>
+<h3 align="center">A passionate Data Scientist with a background in Business and Economics.</h3>
 
 - :seedling: I’m currently pursuing a Master of Data Science at the University of British Columbia (expected graduation date: end of June).
 - :page_with_curl: Before moving to Vancouver, I completed a Bachelors and Masters in Business and Economics at the University of Zurich.
 - :telescope: Now I am looking for an opportunity to apply my knowledge in data science and business.
+
+<h3 align="left">Projects:</h3>
+
+- Co-created a Python package with password related functions - <a href="https://passwordler.readthedocs.io/en/latest/?badge=latest" target="_blank" rel="noreferrer">passwordler</a></p>
+- Co-authored an analysis of self-perceived attractiveness in the context of dating - <a href="https://github.com/UBC-MDS/speed_dating_analysis" target="_blank" rel="noreferrer">Speed Dating Analysis</a></p>
 
 
 </p>
