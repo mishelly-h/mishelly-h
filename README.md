@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I am Michelle! 👋</h1>
 <h3 align="center">A passionate Data Scientist with background in Business and Economics.</h3>
 
-- :seedling: I’m currently pursuing a Master of Data Science at the University of British Columbia with an expected graduation date at the end of June.
+- :seedling: I’m currently pursuing a Master of Data Science at the University of British Columbia (expected graduation date: end of June).
 - :page_with_curl: Before moving to Vancouver, I completed a Bachelors and Masters in Business and Economics at the University of Zurich.
 - :telescope: Now I am looking for an opportunity to apply my knowledge in data science and business.
 
