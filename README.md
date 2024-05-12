@@ -10,7 +10,7 @@
 - Co-created a Python package with password related functions - <a href="https://passwordler.readthedocs.io/en/latest/?badge=latest" target="_blank" rel="noreferrer">passwordler</a></p>
 - Co-authored an analysis of self-perceived attractiveness in the context of dating - <a href="https://github.com/UBC-MDS/speed_dating_analysis" target="_blank" rel="noreferrer">Speed Dating Analysis</a></p>
 - Co-authored a dashboard visualizing the world happiness score - <a href="https://github.com/UBC-MDS/DSCI-532_2024_3_world-happiness-tracker.git" target="_blank" rel="noreferrer">Happiness Dashboard</a></p>
-- Created a Shiny app visualizing snow depth from different locations in Switzerland - <a href="https://github.com/mishelly-h/snowfall_switzerland.git" target="_blank" rel="noreferrer">Shiny App</a></p>
+- Created a Shiny app visualizing snow depth from different locations in Switzerland - <a href="https://github.com/mishelly-h/snowfall_switzerland.git" target="_blank" rel="noreferrer">SnoWatch</a></p>
 
 
 
